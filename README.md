@@ -54,10 +54,10 @@ Até finalizar
 ### 8. Tipos de conta (Poupança e Corrente);
 
 ## Melhorias implementadas
-### Foram adicionadas as seguintes melhorias e implementações:
-#### 1. Melhoria do versionamento do código (Clean Code) com a implementação de anotações Lombok;
-#### 2. Adição de mais clientes e contas;
-#### 4. Implementação de impressão de lista de clientes.
+## Foram adicionadas as seguintes melhorias e implementações:
+### 1. Melhoria do versionamento do código (Clean Code) com a implementação de anotações Lombok;
+### 2. Adição de mais clientes e contas;
+### 4. Implementação de impressão de lista de clientes.
 
 
 ## 📌 Versão
