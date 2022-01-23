@@ -1,8 +1,10 @@
 package com.company;
 
 import lombok.Getter;
+import lombok.Setter;
 
 @Getter
+@Setter
 
 public abstract class Conta implements IConta {
 
@@ -41,6 +43,8 @@ public abstract class Conta implements IConta {
 
 
     protected void imprimirInfosComuns() {
+        System.out.println("__________________________");
+        System.out.println("STATUS");
         System.out.println(String.format("títular: %s", this.cliente.getNome()));
         System.out.println(String.format("Agência: %d", this.agencia));
         System.out.println(String.format("Número: %d", this.numero));
