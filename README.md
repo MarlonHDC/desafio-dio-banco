@@ -39,7 +39,7 @@ Até finalizar
 ### 3. Cliente;
 ### 4. Conta;
 ### 5. Conta Corrente;
-### 6. Iconta (Interface);
+### 6. IConta (Interface);
 ### 7. Main;
 
 
@@ -49,7 +49,7 @@ Até finalizar
 ### 3. Depositar;
 ### 4. Sacar;
 ### 5. Imprimir Extrato;
-### 6. Imprimr Status;
+### 6. Imprimir Status;
 ### 7. Listar Clientes;
 ### 8. Tipos de conta (Poupança e Corrente);
 
